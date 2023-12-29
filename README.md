@@ -8,7 +8,7 @@
 
 ## Some Repositories
 
-[![Repo 1](https://img.shields.io/github/stars/YourUsername/Repo1?style=flat-square&logo=github)](https://github.com/YourUsername/Repo1)
+[![Repo 1](https://img.shields.io/github/stars/YourUsername/Repo1?style=flat-square&logo=github)]([https://github.com/YourUsername/Repo1](https://github.com/electro-phys/brain-space))
 [![Repo 2](https://img.shields.io/github/stars/YourUsername/Repo2?style=flat-square&logo=github)](https://github.com/YourUsername/Repo2)
 [![Repo 3](https://img.shields.io/github/stars/YourUsername/Repo3?style=flat-square&logo=github)](https://github.com/YourUsername/Repo3)
 
