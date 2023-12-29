@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🧠 I’m currently working on the black box inside our heads
+- 🧠 Semi-professional neuron wrangler 
 - 💬 Ask me about dynamic systems and predictive processing
 - 📫 How to reach me: davidwg3@illinois.edu 
 
