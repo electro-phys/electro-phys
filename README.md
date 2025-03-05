@@ -8,10 +8,10 @@
 
 ## Some Repositories
 
-[![Repo 1](https://img.shields.io/github/stars/electro-phys/brain-space?style=flat-square&logo=github)](https://github.com/electro-phys/brain-space)
-[![Repo 2](https://img.shields.io/github/stars/YourUsername/Repo2?style=flat-square&logo=github)](https://github.com/YourUsername/Repo2)
-[![Repo 3](https://img.shields.io/github/stars/YourUsername/Repo3?style=flat-square&logo=github)](https://github.com/YourUsername/Repo3)
+[![Repo 1](https://img.shields.io/github/stars/electro-phys/brain-space?style=flat-square&logo=github)](https://github.com/electro-phys/tuninator)
+[![Repo 2](https://img.shields.io/github/stars/YourUsername/Repo2?style=flat-square&logo=github)](https://github.com/electro-phys/3D_py_pca_modeling)
+[![Repo 3](https://img.shields.io/github/stars/YourUsername/Repo3?style=flat-square&logo=github)](https://github.com/electro-phys/ABR_processor)
 
 ## Publications
 
-- [Publication 1](Link to Publication 1)
+- [Auditory Feature Discrimination](https://www.biorxiv.org/content/10.1101/2025.02.18.638956v1)
