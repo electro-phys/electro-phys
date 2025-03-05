@@ -6,11 +6,11 @@
 - 💬 Ask me about dynamic systems and predictive processing
 - 📫 How to reach me: davidwg3@illinois.edu 
 
-## Some Repositories
+## Top Repositories
 
-[![Repo 1](https://img.shields.io/github/stars/electro-phys/tuninator?style=flat-square&logo=github)](https://github.com/electro-phys/tuninator)
-[![Repo 2](https://img.shields.io/github/stars/YourUsername/3D_py_pca_modeling?style=flat-square&logo=github)](https://github.com/electro-phys/3D_py_pca_modeling)
-[![Repo 3](https://img.shields.io/github/stars/YourUsername/ABR_processor?style=flat-square&logo=github)](https://github.com/electro-phys/ABR_processor)
+[Automated Auditory Ephys Analysis Pipeline](https://github.com/electro-phys/tuninator)
+[NN ODE for Dimensionality Reduction](https://github.com/electro-phys/3D_py_pca_modeling)
+[ABR Processor](https://github.com/electro-phys/ABR_processor)
 
 ## Publications
 
