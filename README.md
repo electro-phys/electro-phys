@@ -8,9 +8,9 @@
 
 ## Some Repositories
 
-[![Repo 1](https://img.shields.io/github/stars/electro-phys/brain-space?style=flat-square&logo=github)](https://github.com/electro-phys/tuninator)
-[![Repo 2](https://img.shields.io/github/stars/YourUsername/Repo2?style=flat-square&logo=github)](https://github.com/electro-phys/3D_py_pca_modeling)
-[![Repo 3](https://img.shields.io/github/stars/YourUsername/Repo3?style=flat-square&logo=github)](https://github.com/electro-phys/ABR_processor)
+[![Repo 1](https://img.shields.io/github/stars/electro-phys/tuninator?style=flat-square&logo=github)](https://github.com/electro-phys/tuninator)
+[![Repo 2](https://img.shields.io/github/stars/YourUsername/3D_py_pca_modeling?style=flat-square&logo=github)](https://github.com/electro-phys/3D_py_pca_modeling)
+[![Repo 3](https://img.shields.io/github/stars/YourUsername/ABR_processor?style=flat-square&logo=github)](https://github.com/electro-phys/ABR_processor)
 
 ## Publications
 
