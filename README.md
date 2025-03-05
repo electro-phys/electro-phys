@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🧠 Semi-professional neuron wrangler 
+- 🧠 Semi-professional neuron wrangler in theory
 - 💬 Ask me about predictive processing and information theory
 - 📫 How to reach me: davidwg3@illinois.edu 
 
